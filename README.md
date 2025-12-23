@@ -1,5 +1,3 @@
-# house-price-prediction-with-ml
-ML project to predict house price using linear regression 
 import pandas as pd
 from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import LabelEncoder
